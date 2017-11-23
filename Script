@@ -11,3 +11,6 @@
 	});
 </script>
 </head>
+
+// Il faut qu'a la place de ".btn" ligne 5, tu mettes ".la_class_que_tu_as_donné_à_ton_lien" (exemple = <a href="#about" class="btn btn-dark btn-lg js-scroll-trigger">)
+// Il faut que tu mettes dans ton lien dans le href le nom de la division que tu veux cibler (exemple = href"#bas_de_page")
